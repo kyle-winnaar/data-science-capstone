@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab
+dash
+plotly
+folium
+requests
+httpx
+beautifulsoup
