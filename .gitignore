@@ -87,3 +87,6 @@ venv.bak/
 .spyproject
 
 pyvenv.cfg
+
+# Other
+*.csv
