@@ -1,6 +1,7 @@
 numpy
 scipy
 pandas
+scikit-learn
 matplotlib
 seaborn
 jupyterlab
@@ -10,4 +11,3 @@ folium
 requests
 httpx
 beautifulsoup
-scikit-learn
