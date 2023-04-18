@@ -1,7 +1,7 @@
 numpy
 scipy
 pandas
-scikit-learn
+scikit-learn==1.2.2
 matplotlib
 seaborn
 jupyterlab
@@ -10,4 +10,8 @@ plotly
 folium
 requests
 httpx
-beautifulsoup
+beautifulsoup4
+ibm_db==3.1.0
+ibm_db_sa==0.3.3
+sqlalchemy==1.3.24
+ipython-sql==0.4.1
